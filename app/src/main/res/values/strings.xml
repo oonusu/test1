@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test1</string>
+
+    <array name="videos">
+        <item>id</item>
+        <item>gps</item>
+        <item>uri</item>
+    </array>
+
+</resources>
